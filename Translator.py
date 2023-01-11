@@ -25,11 +25,11 @@ def translate_now():
     text2.insert(END,trans_text)
 
 #icon
-image_icon =PhotoImage(file="")
+image_icon =PhotoImage(file="image/languages.png")
 root.iconphoto(False,image_icon)
 
 #arrow
-arrow_image=PhotoImage(file="")
+arrow_image=PhotoImage(file="image/exchange.png")
 image_label=Label(root,image=arrow_image,width=150)
 image_label.place(x=460, y=50)
 
