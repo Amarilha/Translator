@@ -82,3 +82,7 @@ Este projeto é open-source e está disponível sob a licença MIT. Sinta-se à 
 
 - **Google Translate API** por possibilitar a funcionalidade de tradução.
 - **Tkinter** por fornecer uma forma simples de criar aplicativos GUI em Python.
+
+## Layout
+
+![layout Lonig1]()
