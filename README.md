@@ -85,4 +85,4 @@ Este projeto é open-source e está disponível sob a licença MIT. Sinta-se à 
 
 ## Layout
 
-![layout Lonig1]()
+![layout Lonig1](https://github.com/Amarilha/Translator/blob/main/image/Layout.png)
